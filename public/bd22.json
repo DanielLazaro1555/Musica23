@@ -757,5 +757,38 @@
     "album": "American Idiot [Explicit]",
     "numero_de_pista": "9/9",
     "Año": "2004"
+  },
+  {
+    "archivo_musica": "Albums/198274469_1.flac",
+    "descripcion": "198274469",
+    "imagen": "Albums/198274469.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "New To You [Clean]",
+    "artista": "Calvin Harris, Normani, Tinashe & OFFSET",
+    "album": "New To You [Clean]",
+    "numero_de_pista": "1/1",
+    "Año": "2022"
+  },
+  {
+    "archivo_musica": "Albums/198274470_1.flac",
+    "descripcion": "198274470",
+    "imagen": "Albums/198274470.jpg",
+    "genero": "Pop/Pop Rock",
+    "titulo": "How Deep Is Your Love",
+    "artista": "Calvin Harris & Disciples",
+    "album": "How Deep Is Your Love",
+    "numero_de_pista": "1/1",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274471_1.flac",
+    "descripcion": "198274471",
+    "imagen": "Albums/198274471.jpg",
+    "genero": "Pop/Pop Rock",
+    "titulo": "My Way",
+    "artista": "Calvin Harris",
+    "album": "My Way",
+    "numero_de_pista": "1/1",
+    "Año": "2016"
   }
 ]
